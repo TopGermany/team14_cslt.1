@@ -15,4 +15,4 @@ while input_line!="":
     input_line=input("Nhập phần x của tọa độ: (trống để thoát): ")
 final_distance=sqrt((first_x_coordinate-x)**2+(first_y_coordinate-y)**2)
 perimeter+=final_distance
-print("The perimeter of that polygon is",perimeter)
+print("Chu vi của đa giác đó là",perimeter)
