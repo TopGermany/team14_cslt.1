@@ -9,5 +9,5 @@ while data!="":
         if parity==0:
             print("Bit chẵn lẻ phải là 0")
         else:
-            print("The parity bit should be 1")
+            print("Bit chẵn lẻ phải là 1")
     data=input()
